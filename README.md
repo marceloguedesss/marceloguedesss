@@ -1,4 +1,4 @@
-# Olá, sou o Marcelo Guedes 👋
+# Olá, sou o Marcelo Guedes 
 
 Bem-vindo ao meu perfil no GitHub. Sou acadêmico da área de tecnologia e dedico meus estudos ao desenvolvimento de software, algoritmos e à busca por soluções eficientes e seguras por meio da computação.
 
