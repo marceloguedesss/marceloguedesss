@@ -7,7 +7,7 @@ Bem-vindo ao meu perfil no GitHub. Sou acadêmico da área de tecnologia e dedic
 ##  Perfil Acadêmico e Profissional
 
 - **Formação:** Graduando em Sistemas de Informação pela **Universidade Federal de Itajubá (UNIFEI)**, com foco em lógica de programação, engenharia de software e estruturas de dados.
-- **Experiência Prática:** Atuo como **Trainee na área de Exploitation** no projeto de cibersegurança **HawkSec** da UNIFEI.
+- **Experiência Prática:** Atuo como **Trainee na área de Exploitation** no projeto de cibersegurança **HawkSeck** da UNIFEI.
 - **Objetivo de Carreira:** Pretendo atuar e evoluir profissionalmente nas áreas de **Engenharia de Software** e **Cibersegurança**.
 - **Histórico em Olimpíadas Científicas:** Possuo uma trajetória dedicada às ciências exatas e ao raciocínio lógico, destacando-se:
   - **Olimpíada Brasileira de Física (OBF):** Conquista de Menção Honrosa na 3ª e última fase nacional.
