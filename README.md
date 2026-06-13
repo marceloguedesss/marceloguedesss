@@ -19,7 +19,8 @@ Bem-vindo ao meu perfil no GitHub. Sou acadêmico da área de tecnologia e dedic
 ##  Certificações
 
 - **Lean Six Sigma White Belt:** Capacitação em melhoria contínua de processos, análise de escopo e eficiência operacional.
-
+- **Minicurso de HTML & CSS – Byron Solutions (UNIFEI):** Noções sobre desenvolvimento web
+- **Cibersegurança: Segurança da Informação e Ataques Cibernéticos – USP**: Introdução à segurança da informação e busca por falhas em protocolos de rede
 ---
 
 ## Competências Técnicas
