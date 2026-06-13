@@ -41,4 +41,4 @@ Sistema desenvolvido em linguagem C voltado ao cadastramento e busca de animais 
 
 📬 **Contato:**
 Sinta-se à vontade para explorar meus repositórios ou entrar em contato comigo através do meu [LinkedIn](www.linkedin.com/in/marcelo-agrico-guedes-0a2546404).
-E-mail: contato.marceloguedess@gmail.com
+E-mail: marceloguedesscontato@gmail.com
