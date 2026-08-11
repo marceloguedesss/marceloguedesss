@@ -316,11 +316,11 @@ src="https://github-profile-trophy.vercel.app/?username=marceloguedesss&theme=on
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-marceloguedesss-050A0E?style=for-the-badge\&logo=github\&logoColor=00F7FF)](https://github.com/marceloguedesss)
+[![GitHub](https://img.shields.io/badge/GitHub-marceloguedesss-050A0E?style=for-the-badge&logo=github&logoColor=00F7FF)](https://github.com/marceloguedesss)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-CONNECT-050A0E?style=for-the-badge\&logo=linkedin\&logoColor=00F7FF)](www.linkedin.com/in/marcelo-agrico-guedes-0a2546404)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Marcelo_Guedes-050A0E?style=for-the-badge&logo=linkedin&logoColor=00F7FF)](https://www.linkedin.com/in/marcelo-agrico-guedes-0a2546404)
 
-[![Email](https://img.shields.io/badge/Email-CONTACT-050A0E?style=for-the-badge\&logo=gmail\&logoColor=00F7FF)](mailto:your-marceloguedesscontato@gmail.com)
+[![Email](https://img.shields.io/badge/Email-marceloguedesscontato%40gmail.com-050A0E?style=for-the-badge&logo=gmail&logoColor=00F7FF)](mailto:marceloguedesscontato@gmail.com)
 
 </div>
 
